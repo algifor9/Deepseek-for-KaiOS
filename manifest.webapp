@@ -1,6 +1,6 @@
 {
-  "name": "DeepSeek",
-  "description": "DeepSeek Chat App",
+  "name": "Gemini",
+  "description": "Google Gemini Chat App",
   "launch_path": "/index.html",
   "icons": {
     "128": "icon.png"
