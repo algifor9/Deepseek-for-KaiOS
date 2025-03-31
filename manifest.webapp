@@ -1,4 +1,4 @@
-{{
+{
     "name": "Gemini",
     "description": "Google Gemini for KaiOS",
     "launch_path": "/index.html",
