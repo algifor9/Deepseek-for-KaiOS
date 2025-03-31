@@ -1,17 +1,17 @@
 {
-  "name": "Gemini",
-  "description": "Google Gemini Chat App",
-  "launch_path": "/index.html",
-  "icons": {
-    "128": "icon.png"
-  },
-  "developer": {
-    "name": "Your Name"
-  },
-  "type": "privileged",
-  "fullscreen": true,
-  "permissions": {
-    "systemXHR": {},
-    "embedwidgets": {}
-  }
+    "name": "Gemini",
+    "description": "Google Gemini for KaiOS",
+    "launch_path": "/index.html",
+    "icons": {
+        "128": "/icon.png"
+    },
+    "developer": {
+        "name": "Your Name (or Nickname)"
+    },
+    "type": "privileged",
+    "fullscreen": true,
+    "permissions": {
+        "systemXHR": {},
+        "embedwidgets": {}
+    }
 }
